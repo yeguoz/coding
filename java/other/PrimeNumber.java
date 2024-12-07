@@ -1,4 +1,4 @@
-package com.test.demo1;
+package other;
 
 public class PrimeNumber {
     public static void main(String[] args) {
