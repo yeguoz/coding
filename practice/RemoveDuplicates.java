@@ -25,7 +25,7 @@ public class RemoveDuplicates {
         }
         return k;
     }
-
+    //  efficient solution
     public static int removeDuplicates2(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0; // 空数组的情况
