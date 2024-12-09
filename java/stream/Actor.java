@@ -1,4 +1,4 @@
-package stream_;
+package stream;
 
 public class Actor {
     private String name;
